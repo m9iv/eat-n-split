@@ -8,7 +8,7 @@ This project was bootstrapped with Create React App.
 
 ## DEMO
 
-You can visit the [DEMO](https://m9iv.github.io/kzaviryukha.github.io/demo/eat-n-split/index.html) page soon.
+You can visit the [DEMO](https://m9iv.github.io/kzaviryukha.github.io/demo/eat-n-split/index.html) page.
 
 ### Available Scripts
 
